@@ -1,4 +1,4 @@
-![Banner Alt Text](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png)
+
 
 <h1 align="center">Hi 👋, I'm Jeebanjyoti Mallik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
